@@ -1,5 +1,12 @@
 YahooBousaiCrowd data contrains the following files:
-
+* density_tokyo_20170401_20170709_30min.npy
+* flowio_tokyo_20170401_20170709_30min.npy
+* density_osaka_20170401_20170709_30min.npy
+* flowio_osaka_20170401_20170709_30min.npy
+* temporal_index.csv
+* tokyo_spatial_index.csv
+* osaka_spatial_index.csv
+* readme.md
 
 Each .npy data is a 4D tensor described as follows:
 * timestep, height, width, channel = data.shape[0], data.shape[1], data.shape[2], data.shape[3]
