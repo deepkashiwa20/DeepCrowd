@@ -1,5 +1,4 @@
 Our .npy data is a 4D tensor as follows:
-
 * timestep, height, width, channel = data.shape[0], data.shape[1], data.shape[2], data.shape[3]
 * tokyo_density.shape, tokyo_flowio.shape = (4800, 80, 80, 1), (4800, 80, 80, 2)
 * osaka_density.shape, osaka_flowio.shape = (4800, 60, 60, 1), (4800, 60, 60, 2)
@@ -13,3 +12,4 @@ The spatiotemporal specification is summarized as follows:
 * time_interval = '30min'
 * tokyo_mesh: MINLat = 35.5, MAXLat = 35.82, MINLon = 139.5, MAXLon = 139.9, DLat = 0.004, DLon = 0.005 
 * osaka_mesh: MINLat = 34.58, MAXLat = 34.82, MINLon = 135.35, MAXLon = 135.65, DLat = 0.004, DLon = 0.005
+
