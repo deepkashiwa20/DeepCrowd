@@ -1,4 +1,4 @@
-Our .npy data is a 4D tensor as follows:
+Each .npy data is a 4D tensor described as follows:
 * timestep, height, width, channel = data.shape[0], data.shape[1], data.shape[2], data.shape[3]
 * tokyo_density.shape, tokyo_flowio.shape = (4800, 80, 80, 1), (4800, 80, 80, 2)
 * osaka_density.shape, osaka_flowio.shape = (4800, 60, 60, 1), (4800, 60, 60, 2)
