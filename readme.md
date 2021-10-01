@@ -1,3 +1,6 @@
+YahooBousaiCrowd data contrains the following files:
+
+
 Each .npy data is a 4D tensor described as follows:
 * timestep, height, width, channel = data.shape[0], data.shape[1], data.shape[2], data.shape[3]
 * tokyo_density.shape, tokyo_flowio.shape = (4800, 80, 80, 1), (4800, 80, 80, 2)
@@ -15,6 +18,6 @@ The spatiotemporal specification is summarized as follows:
 
 The maximum value for the current 0-1 normalized 4D tensor is as follows:
 * tokyo_density, tokyo_flowio, osaka_density, osaka_flowio = 2300, 1200, 1800, 770
-* The original maximum values used in our study is 23xx, 12xx, 18xx, 77x. 
+* The original maximum values used in the paper is 23xx, 12xx, 18xx, 77x. 
 * However, according to the company policy of Yahoo Japan Corporation, only the most significant two digits can be published. 
-* Thus the reproduced results might slightly differ from the original paper. 
+* Thus, the reproduced results might slightly differ from the paper.
