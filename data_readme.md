@@ -16,5 +16,5 @@ The spatiotemporal specification is summarized as follows:
 The maximum value for the current 0-1 normalized 4D tensor is as follows:
 * tokyo_density, tokyo_flowio, osaka_density, osaka_flowio = 2300, 1200, 1800, 770
 * The original maximum values used in our study is 23xx, 12xx, 18xx, 77x. 
-* However, according to the company policy of Yahoo Japan Corporation, only the most significant two digits can be reported here. 
+* However, according to the company policy of Yahoo Japan Corporation, only the most significant two digits can be published. 
 * Thus the reproduced results might slightly differ from the original paper. 
