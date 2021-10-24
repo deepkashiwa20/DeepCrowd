@@ -1,6 +1,11 @@
 # TKDE 2021 Paper
 ## DeepCrowd: <br> A Deep Model for Large-Scale Citywide Crowd Density and Flow Prediction
 
+## Datasets
+Data is now available at Yahoo! Japan Research website. You can get the data by submitting the application form.
+https://randd.yahoo.co.jp/en/softwaredata
+https://randd.yahoo.co.jp/jp/softwaredata
+
 ## Dependencies
 Working environment and major dependencies:
 * Ubuntu 16.04.6 LTS
