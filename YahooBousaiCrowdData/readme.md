@@ -1,3 +1,7 @@
+YahooBousaiCrowd data is now available at Yahoo! Japan Research website.
+* You can get the data by submitting the application form.
+* https://randd.yahoo.co.jp/en/softwaredata
+
 YahooBousaiCrowd data contrains the following files:
 * density_tokyo_20170401_20170709_30min.npy
 * flowio_tokyo_20170401_20170709_30min.npy
