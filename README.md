@@ -2,9 +2,11 @@
 ## DeepCrowd: A Deep Model for Large-Scale Citywide Crowd Density and Flow Prediction
 
 ## Datasets
-Data is now available at Yahoo! Japan Research website. You can get the data by submitting the application form.
+Yahoo! Bousai Crowd Data is now available at Yahoo! Japan Research website. You can get the data by submitting the application form.
 https://randd.yahoo.co.jp/en/softwaredata
 
+## Model
+Please check DeepCrowd.py or workBousai_TYO(OSA)_ours
 ## Dependencies
 Working environment and major dependencies:
 * Ubuntu 16.04.6 LTS
