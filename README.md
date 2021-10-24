@@ -6,7 +6,7 @@ Yahoo! Bousai Crowd Data is now available at Yahoo! Japan Research website. You 
 https://randd.yahoo.co.jp/en/softwaredata
 
 ## Model
-Please check DeepCrowd.py or workBousai_TYO(OSA)_ours
+Please check DeepCrowd.py or workBousai_TYO(OSA)_ours.
 ## Dependencies
 Working environment and major dependencies:
 * Ubuntu 16.04.6 LTS
