@@ -3,8 +3,12 @@
 
 ## Datasets
 Yahoo! Bousai Crowd Data is now available at Yahoo! Japan Research website. <br>
-You can get the data by submitting the application form. <br>
 https://randd.yahoo.co.jp/en/softwaredata
+
+* Please fill in Application PDF for Use of Yahoo! Bousai Crowd Data. (See the sample PDF in this directory.)
+* https://s.yimg.jp/dl/research_lab/randd/software_data/application_form_YJ21_10042184_en.pdf
+* The fields below the underline on the application form do not need to be filled in.
+* Send it to yjresearch-data “at” mail.yahoo.co.jp.
 
 ## Model
 Please check DeepCrowd.py or workBousaiTYO(OSA)_ours.
