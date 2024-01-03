@@ -10,6 +10,7 @@ https://randd.yahoo.co.jp/en/softwaredata
 * https://s.yimg.jp/dl/research_lab/randd/software_data/application_form_YJ21_10042184_en.pdf
 * See the sample PDF ./YahooBousaiCrowdData/application_form_YJ21_10042184_en_sample.pdf.
 * The fields below the underline on the application form do not need to be filled in.
+* Kindly ask Kota Tsubouchi <ktsubouc@yahoo-corp.jp> about the data access. 
 
 ## Model
 Please check DeepCrowd.py or workBousaiTYO(OSA)_ours.
